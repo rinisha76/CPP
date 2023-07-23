@@ -1,3 +1,5 @@
+/*C++ program to implement a custom container that behaves like a stack using the STL algorithms and data structures*/
+
 #include <iostream>
 #include<vector>
 #include<algorithm>
